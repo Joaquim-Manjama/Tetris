@@ -1,2 +1,3 @@
 # Tetris
-A very fun tetris game. Contains minor bugs and does not finish.
+A very fun tetris game.
+
